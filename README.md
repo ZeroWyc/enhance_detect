@@ -10,7 +10,9 @@
 ![img_3.png](img_3.png)
 对于YOLOv10n-CA-PIoU模型我的改进代码分别位于
 ./YOLOv10n-CA-PIoU/ultralytics/nn/modules/CA.py
+![img_4.png](img_4.png)
 ./YOLOv10n-CA-PIoU/ultralytics/cfg/models/v10/yolov10n-CA.yaml
+![img_5.png](img_5.png)
 ./YOLOv10n-CA-PIoU/ultralytics/nn/tasks.py
-其中parse_model方法中添加![img.png](img.png)
+其中的parse_model方法中添加![img.png](img.png)
 
